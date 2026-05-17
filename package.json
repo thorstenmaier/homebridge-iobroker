@@ -1,15 +1,15 @@
 {
-  "displayName": "homebridge-iobroker",
-  "name": "homebridge-iobroker2",
+  "displayName": "homebridge-iobroker-tm",
+  "name": "homebridge-iobroker-tm",
   "version": "1.0.4",
-  "description": "Provides Iobroker States as Devices",
+  "description": "Provides Iobroker States as Devices (Thorsten Maier fork)",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Schlauer-Hax/homebridge-iobroker.git"
+    "url": "git://github.com/thorstenmaier/homebridge-iobroker.git"
   },
   "bugs": {
-    "url": "https://github.com/Schlauer-Hax/homebridge-iobroker/issues"
+    "url": "https://github.com/thorstenmaier/homebridge-iobroker/issues"
   },
   "engines": {
     "node": ">=12.13.0",
